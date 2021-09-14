@@ -1,0 +1,40 @@
+<!DOCTYPE html> 
+<html>
+    <head>
+        <meta charset="utf-8">
+            <title> Debt </title>
+        
+        <link rel="stylesheet" href="../css/style.css">
+        
+    </head>
+        <body>
+<div class="placement">
+    
+                    <h1>What is the cause of her death?</h1>
+            
+            <div class="text">
+
+                    <center><img align="middle" src="../img/csci-fidan_Page_2.jpg" alt="kettle"/></center>
+                <p> 
+                <a href="../html/boiling_water.html">Boiling Water</a>
+                </p>
+                
+                    <center><img align="middle" src="../img/torture.png" alt="torture"/></center>
+                
+                <p>  
+                <a href="../html/torture.html">Tortured</a>
+                </p>
+                
+                    <center><img align="middle" src="../img/choking.png" alt="choking"/></center>
+                
+                <p> <a href="../html/choke.html">Choked</a>
+                </p>
+                
+                <p>
+                    <a href="../html/room2.html">Go back to investigating.</a>
+                </p>
+                
+            </div>
+</div> 
+        </body>
+</html>
