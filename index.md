@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Proposal - Fidan
 
 You can use the [editor on GitHub](https://github.com/fize98/fize98/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
