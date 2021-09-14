@@ -1,1 +1,95 @@
+body {
+    background-color: #111111;
+}
 
+p{
+    font-size: 20px;
+    text-align: center;
+    font-family: american typewriter;
+    font-kerning: auto;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    font-family: helvetica;
+    font-kerning: auto;
+    color: maroon;
+}
+
+a {
+    color: white;
+    font: american typewriter;
+    
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: gray;
+}
+
+a:active {
+/*    color: white;*/
+}
+
+.text {
+    position: static;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+   
+}
+
+.placement {
+    margin-top: 8%;
+    display: grid;
+    grid-row-gap: 50px;
+}
+
+.textplacement {
+    margin-top: 25%;
+    display: grid;
+    grid-row-gap: 50px;
+}
+.roomplacement {
+    margin-top: 5%;
+    display: grid;
+    grid-row-gap: 50px;
+}
+
+.kettleplacement {
+    margin-top: 4%;
+    display: grid;
+    grid-row-gap: 50px;
+}
+
+.placement2 {
+    margin-top: 5%;
+}
+
+.statement {
+    position: static;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+.hover img:hover {
+    transition: .9s ease-in-out;
+    width: 500px;
+}
+
+.hover2 img:hover {
+    transition: .9s ease-in-out;
+    width: 800px;
+}
+
+.hover3 img:hover {
+    transition: .9s ease-in-out;
+    width: 350px;
+}
