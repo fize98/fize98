@@ -18,7 +18,7 @@
                 <p>The following narrative has been inspired by <span style="color: #931b1b">true events. </span> The names of the characters have been changed for privacy purposes.
                 </p>
                 
-                <p><a href="./html/propossal1.html"> Proceed to the crime</a>
+                <p><a href="./html/proposal1.html"> Proceed to the crime</a>
                 </p> 
             
             </div>
